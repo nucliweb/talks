@@ -1,0 +1,15 @@
+{
+  "name": "houdini-talk",
+  "version": "1.0.0",
+  "description": "CSS Houdini Talk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "Name": "Joan León",
+    "Mail": "joan.leon@gmail.com",
+    "Twitter": "@nucliweb",
+    "Web": "https://nucliweb.net"
+  },
+  "license": "MIT"
+}
